@@ -19,17 +19,6 @@ I'm passionate about software craftsmanship and make it a habit to stay on top o
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oussama-hansali&show_icons=true&theme=tokyonight&hide_border=true" alt="Oussama's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-hansali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/oussama-hansali/" target="_blank">
