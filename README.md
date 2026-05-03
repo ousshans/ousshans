@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hey there, I'm Oussama 👋
 
-<!--
-**ousshans/ousshans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Software Developer** with solid experience designing and building **microservice architectures** and **large-scale applications**. My stack revolves around **Java/Quarkus** and **Angular** — tools I use every day and genuinely enjoy.
 
-Here are some ideas to get you started:
+I'm passionate about software craftsmanship and make it a habit to stay on top of the latest trends and updates in the technologies I work with.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-informational?style=for-the-badge)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oussama-hansali&show_icons=true&theme=tokyonight&hide_border=true" alt="Oussama's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-hansali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<a href="https://www.linkedin.com/in/oussama-hansali/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Oussama%20Hansali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+---
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
+</p>
